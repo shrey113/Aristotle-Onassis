@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    width: 70%;
+    margin: auto;
+}
+
+.intro {
+    text-align: left;
+    border-style: solid;
+    padding: 10px;
+    border-color: rgb(177, 173, 173);
+    border-width: 0.5px;
+    margin-bottom: 20px;
+    border-radius: 1.5%;
+}
+
+#img {
+    border-radius: 100%;
+    width: 25%;
+}
+
+.timeline {
+    text-align: left;
+}
+
+.img-label {
+    background-color: rgb(212, 209, 209);
+    padding: 0.5px;
+}
+
+.Coder {
+    text-align: left;
+    padding-top: 10px;
+    font-style: italic;
+}
+
+.link {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.middle {
+    border-style: solid;
+    padding: 10px;
+    border-color: rgb(177, 173, 173);
+    border-width: 0.5px;
+    border-radius: 1.5%;
+}
+
+.main-body {
+    margin-top: 50px;
+    background-color: rgba(187, 184, 184, 0.473);
+    padding: 30px;
+}
